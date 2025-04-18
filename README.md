@@ -34,7 +34,7 @@ The project simulates enterprise-level Big Data workflows using open-source tech
 
 ---
 
-## 📄 Documentation Summary
+## Documentation Summary
 
 ### 📘 Phase 1 – HDFS, YARN, Sqoop
 `Phase 1_HDFS_Sqoop/Phase 1_HDFS_Sqoop.pdf`
