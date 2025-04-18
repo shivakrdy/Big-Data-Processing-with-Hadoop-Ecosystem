@@ -28,7 +28,7 @@ Big-Data-Processing-with-Hadoop-Ecosystem/
 
 ---
 
-## 💡 Project Overview
+## Project Overview
 
 The project simulates enterprise-level Big Data workflows using open-source technologies in a pseudo-distributed environment. All implementations were carried out inside a Cloudera VM using Linux shell commands, Hue interface, and various big data tools. Due to the nature of the tools used, **code and outputs were captured as annotated screenshots**, which are organized in PDF format for each phase.
 
@@ -37,29 +37,29 @@ The project simulates enterprise-level Big Data workflows using open-source tech
 ## 📄 Documentation Summary
 
 ### 📘 Phase 1 – HDFS, YARN, Sqoop
-📁 `Phase 1_HDFS_Sqoop/Phase 1_HDFS_Sqoop.pdf`
+`Phase 1_HDFS_Sqoop/Phase 1_HDFS_Sqoop.pdf`
 
 This phase covers foundational components of Hadoop and initial data ingestion.
 
-✅ **Tools Covered**: HDFS, YARN, Hue, Sqoop
+**Tools Covered**: HDFS, YARN, Hue, Sqoop
 
 ---
 
 ### 📘 Phase 2 – Hive, Impala, Avro, Flume
-📁 `Phase 2_Hive_Impala_Sqoop_Flume/Phase 2_Hive_Impala_Sqoop_Flume.pdf`
+`Phase 2_Hive_Impala_Sqoop_Flume/Phase 2_Hive_Impala_Sqoop_Flume.pdf`
 
 Focuses on querying, data warehousing, and real-time ingestion.
 
-✅ **Tools Covered**: Hive, Impala, Sqoop (Hive integration), Avro, Flume
+**Tools Covered**: Hive, Impala, Sqoop (Hive integration), Avro, Flume
 
 ---
 
 ### 📘 Phase 3 – Apache Spark (RDDs, SQL, Apps)
-📁 `Phase 3_Spark_RDD_SQL_Apps/Phase 3_Spark_RDD_SQL_Apps.pdf`
+`Phase 3_Spark_RDD_SQL_Apps/Phase 3_Spark_RDD_SQL_Apps.pdf`
 
 Demonstrates distributed data processing with Apache Spark.
 
-✅ **Tools Covered**: Apache Spark, Spark SQL, YARN, Hue, MySQL
+**Tools Covered**: Apache Spark, Spark SQL, YARN, Hue, MySQL
 
 ---
 
@@ -82,7 +82,7 @@ GitHub: [@shivakrdy](https://github.com/shivakrdy)
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Export terminal commands and script files from VM to GitHub
 - Build a Docker-based replacement for the Cloudera VM
