@@ -76,7 +76,7 @@ Demonstrates distributed data processing with Apache Spark.
 ## 🙋‍♂️ Author
 
 **Shiva Kumar Reddy Koppula**  
-Graduate Student – Business Analytics  
+Graduate Student – Artificial Intelligence & Business Analytics
 University of Texas at Dallas  
 GitHub: [@shivakrdy](https://github.com/shivakrdy)
 
